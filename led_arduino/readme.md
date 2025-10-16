@@ -69,7 +69,7 @@ A imagem e gif abaixo apresentam o funcioanmento do arduíno no simulador virtua
 
 *GIF 1 - Arduíno virtual em funcionamento*
 
-<img src="tinkercad2.png" width="100%"><br>
+<img src="tinkercad2.gif" width="100%"><br>
 
 <sup>Fonte: Maria Eduarda, 2025</sup>
 
