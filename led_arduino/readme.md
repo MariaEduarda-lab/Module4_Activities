@@ -25,9 +25,9 @@ Pode ser verificado o funcionamento real logo abaixo:
 
 <div align="center">
 
-*GIF 1 - Arduíno virtual em funcionamento*
+*GIF 1 - Arduíno em funcionamento*
 
-<img src="videodemo.gif" width="100%"><br>
+<img src="video_demo.gif" width="100%"><br>
 
 <sup>Fonte: Maria Eduarda, 2025</sup>
 
@@ -77,7 +77,7 @@ A imagem e gif abaixo apresentam o funcioanmento do arduíno no simulador virtua
 
 <div align="center">
 
-*GIF 1 - Arduíno virtual em funcionamento*
+*GIF 2 - Arduíno virtual em funcionamento*
 
 <img src="tinkercad2.gif" width="100%"><br>
 
