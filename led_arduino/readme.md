@@ -21,7 +21,17 @@ O código faz com que a luz colocada no arduíno fique piscando nos intervalos d
 
 #### 🎥 Vídeo
 
-Pode ser verificado o funcionamento real em [video_demo.mp4](video_demo.mp4).
+Pode ser verificado o funcionamento real logo abaixo:
+
+<div align="center">
+
+*GIF 1 - Arduíno virtual em funcionamento*
+
+<img src="videodemo.gif" width="100%"><br>
+
+<sup>Fonte: Maria Eduarda, 2025</sup>
+
+ </div>
 
 #### 📸 Capturas de Tela do IDE
 
