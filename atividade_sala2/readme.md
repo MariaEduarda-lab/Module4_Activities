@@ -62,7 +62,7 @@ Os gráficos a seguir mostram o comportamento da **tensão do capacitor** durant
 <div align="center">
 
 *Gráfico 1 - Carga do Capacitor*  
-<img src="grafico_carga_capacitor" width="100%"><br>
+<img src="grafico_carga_capacitor.png" width="100%"><br>
 
 *Gráfico 2 - Descarga do Capacitor*  
 <img src="grafico_descarga_resistor.png" width="100%"><br>
@@ -94,7 +94,7 @@ O circuito foi simulado no **Tinkercad**, utilizando os mesmos componentes e o c
 <div align="center">
 
 *GIF 1 - Circuito RC em execução (simulação)*  
-<img src="demonstracao.gif" width="100%"><br>  
+<img src="demosntracao.gif" width="100%"><br>  
 
 <sup>Fonte: Maria Eduarda, 2025</sup>
 
