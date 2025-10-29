@@ -10,7 +10,7 @@ Durante meu estágio no Departamento de Engenharia de Trânsito, fui responsáve
 
 ### Lista de Materiais Utilizados
 
-- [2] Protoboard
+- [1] Protoboard
 - [1] LED vermelho
 - [1] LED amarelo
 - [1] LED verde
