@@ -42,3 +42,4 @@ O semáforo foi montado de maeira com que o jumper macho-macho se conectasse com
 
 [Clique aqui](https://www.youtube.com/watch?v=Lo7x-fEkS5Y) para ter acesso ao vídeo, que motra o funcionamento do semáforo solicitado.
 
+Ir além: uma simulação no tinkercad mais simples para caso queiram replicar [aqui](https://www.tinkercad.com/things/9MR4YbZYrY4/editel?returnTo=%2Fdashboard%2Fdesigns%2Fcircuits&sharecode=yjYZBbxEM6g-WXu5dVQgosaW7ZMjlDq3c3b1ASmFpVM)

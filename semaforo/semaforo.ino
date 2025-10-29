@@ -50,9 +50,9 @@ void loop() {
   // 3. Acessando os Métodos via Ponteiro (Continua usando '->')
   // O acesso permanece o mesmo: usamos '->' porque estamos lidando com PONTEIROS.
   
-  ledVermelhoPtr->ligarPor(6000); 
-
   ledVerdePtr->ligarPor(4000);
+  
+  ledVermelhoPtr->ligarPor(6000); 
 
   ledAmareloPtr->ligarPor(2000);
 }
