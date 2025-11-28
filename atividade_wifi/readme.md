@@ -26,4 +26,4 @@ O dashboard foi configurado com um **Gráfico de Linha** (Tempo vs. dBm) para mo
 
 ## 💻 Código pode ser conferido [aqui](code.ino)
 
-## Vídeo de todo experimento está [aqui](https://www.youtube.com/shorts/AQLWQ_P744I)
+## Vídeo de todo experimento está [aqui](https://drive.google.com/file/d/1gEEeg02h9Rw_omRznExT0nFogPlm244e/view?usp=sharing)
